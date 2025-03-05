@@ -59,6 +59,58 @@ Stores historical interview data for trend analysis & decision-making.
 
 # Technology Stack
 
+## Frontend:
+React.js / Angular / Vue.js → For a modern, responsive web interface.
+Tailwind CSS / Material UI → For a clean and structured UI/UX.
+WebRTC / Zoom SDK / Jitsi → For video conferencing integration.
+
+## Backend:
+Python (FastAPI / Django / Flask) → For handling API requests and business logic.
+Node.js (Express.js) → For real-time data processing (optional).
+GraphQL / REST APIs → For structured data communication.
+
+## AI/NLP Models:
+OpenAI GPT / BERT / T5 → For dynamic question generation.
+spaCy / NLTK → For text processing & NLP tasks.
+Hugging Face Transformers → For response evaluation and scoring.
+Google Speech-to-Text / OpenAI Whisper → For speech-to-text conversion.
+VADER / TextBlob → For sentiment analysis of candidate responses.
+
+## Database & Storage:
+PostgreSQL / MySQL → For structured candidate/interview data storage.
+MongoDB / Firebase → For unstructured and semi-structured data.
+AWS S3 / Google Cloud Storage → For storing interview transcripts and video recordings.
+
+## Authentication & Security:
+OAuth2 / SAML / JWT → For secure user authentication.
+Role-Based Access Control (RBAC) → To restrict permissions based on user roles.
+End-to-End Encryption (E2EE) → For secure video and data transmission.
+
+## Cloud & DevOps:
+AWS / Azure / Google Cloud → For cloud hosting and scalability.
+Docker / Kubernetes → For containerization and microservices deployment.
+Prometheus / Grafana → For system monitoring and analytics.
+
 
 # Dependencies
 
+## AI & NLP Dependencies:
+transformers → For pre-trained AI models (GPT, BERT, T5).
+spaCy / nltk → For NLP and text processing.
+speechrecognition / whisper → For speech-to-text processing.
+scikit-learn / tensorflow / pytorch → For ML-based scoring models.
+
+## Backend Dependencies:
+FastAPI / Django / Flask → For backend API development.
+SQLAlchemy → For database ORM.
+Celery + Redis → For background task processing.
+
+## Frontend Dependencies:
+React.js / Angular / Vue.js → For building dynamic UI.
+Axios / GraphQL Client → For API calls.
+Tailwind CSS / Material UI → For frontend styling.
+
+## Security Dependencies:
+bcrypt / argon2 → For password hashing.
+jwt → For authentication.
+helmet / cors → For securing HTTP headers and cross-origin requests.
