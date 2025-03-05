@@ -12,6 +12,44 @@ Ministry of Defence
 
 ## Idea
 
+# 1.AI-Powered Question Generation
+
+Generates dynamic, domain-specific questions based on the candidate's expertise.
+Categorizes questions into ice-breaking, technical, and managerial levels.
+Uses Knowledge Graphs and NLP models to ensure question relevance.
+# 2.Automated Candidate Response Evaluation
+
+AI analyzes candidate answers using Natural Language Processing (NLP).
+Evaluates relevance, technical depth, and logical reasoning in responses.
+Provides real-time scoring for objective assessment.
+
+# 3.nterviewer Assistance & Feedback
+
+AI suggests follow-up questions based on candidate responses.
+Helps interviewers maintain fair and standardized evaluations.
+Offers real-time feedback on question quality & candidate engagement.
+Speech-to-Text & Sentiment Analysis
+
+Converts spoken responses into text for analysis.
+Sentiment analysis helps evaluate confidence, tone, and communication skills.
+
+# 4.AI-Based Scoring System
+
+Assigns relevancy scores to questions and responses.
+Calculates an overall subject knowledge score for each candidate.
+Generates comparative ranking of candidates based on scores.
+
+# 5.Customizable Interview Experience
+
+Allows interviewers to manually add/edit questions while maintaining AI suggestions.
+Supports panel-based and one-on-one interviews.
+Integrates with video conferencing tools for seamless remote interviews.
+
+# 6.Comprehensive Reporting & Analytics
+
+Generates detailed candidate performance reports with strengths & weaknesses.
+Provides real-time dashboards for interviewers and HR teams.
+Stores historical interview data for trend analysis & decision-making.
 
 ## Proposed Solution / Architecture Diagram
 
