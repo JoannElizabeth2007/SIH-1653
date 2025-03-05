@@ -53,6 +53,8 @@ Stores historical interview data for trend analysis & decision-making.
 
 # Proposed Solution / Architecture Diagram
 
+![image](https://github.com/user-attachments/assets/121abe52-b4ae-4400-9d3a-59455dd4c170)
+
 
 # Use Cases
 
