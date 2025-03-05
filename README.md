@@ -58,6 +58,8 @@ Stores historical interview data for trend analysis & decision-making.
 
 # Use Cases
 
+![image](https://github.com/user-attachments/assets/51ab7f06-707c-4520-80ed-25490249f300)
+
 
 # Technology Stack
 
